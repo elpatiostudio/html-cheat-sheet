@@ -310,7 +310,7 @@ tag | element
     <input type="checkbox" name="available" value="monday" />Monday<br/>
     <input type="checkbox" name="available" value="tuesday" />Tuesday<br/>
     
-    <textarea name="comments" rows="10" cols="30" placeholder="Write your comments here"><textarea/>
+    <textarea name="comments" rows="10" cols="30" placeholder="Write your comments here"></textarea>
     
     <input type="submit" value="Button text">
 </form>
